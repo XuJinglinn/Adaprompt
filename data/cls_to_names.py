@@ -29,3 +29,75 @@ CIFAR10_C_classes=['airplane', 'automobile', 'bird', 'cat', 'deer','dog', 'frog'
 CIFAR100_C_classes=['apple', 'aquarium_fish', 'baby', 'bear', 'beaver', 'bed', 'bee', 'beetle', 'bicycle', 'bottle', 'bowl', 'boy', 'bridge', 'bus', 'butterfly', 'camel', 'can', 'castle', 'caterpillar', 'cattle', 'chair', 'chimpanzee', 'clock', 'cloud', 'cockroach', 'couch', 'crab', 'crocodile', 'cup', 'dinosaur', 'dolphin', 'elephant', 'flatfish', 'forest', 'fox', 'girl', 'hamster', 'house', 'kangaroo', 'keyboard', 'lamp', 'lawn_mower', 'leopard', 'lion', 'lizard', 'lobster', 'man', 'maple_tree', 'motorcycle', 'mountain', 'mouse', 'mushroom', 'oak_tree', 'orange', 'orchid', 'otter', 'palm_tree', 'pear', 'pickup_truck', 'pine_tree', 'plain', 'plate', 'poppy', 'porcupine', 'possum', 'rabbit', 'raccoon', 'ray', 'road', 'rocket', 'rose', 'sea', 'seal', 'shark', 'shrew', 'skunk', 'skyscraper', 'snail', 'snake', 'spider', 'squirrel', 'streetcar', 'sunflower', 'sweet_pepper', 'table', 'tank', 'telephone', 'television', 'tiger', 'tractor', 'train', 'trout', 'tulip', 'turtle', 'wardrobe', 'whale', 'willow_tree', 'wolf', 'woman', 'worm']
 
 TinyImageNet_C_classes=['goldfish', 'European fire salamander', 'bullfrog', 'tailed frog', 'American alligator', 'boa constrictor', 'trilobite', 'scorpion', 'black widow', 'tarantula', 'centipede', 'goose', 'koala', 'jellyfish', 'brain coral', 'snail', 'slug', 'sea slug', 'American lobster', 'spiny lobster', 'black stork', 'king penguin', 'albatross', 'dugong', 'Chihuahua', 'Yorkshire terrier', 'golden retriever', 'Labrador retriever', 'German shepherd', 'standard poodle', 'tabby', 'Persian cat', 'Egyptian cat', 'cougar', 'lion', 'brown bear', 'ladybug', 'fly', 'bee', 'grasshopper', 'walking stick', 'cockroach', 'mantis', 'dragonfly', 'monarch', 'sulphur butterfly', 'sea cucumber', 'guinea pig', 'hog', 'ox', 'bison', 'bighorn', 'gazelle', 'Arabian camel', 'orangutan', 'chimpanzee', 'baboon', 'African elephant', 'lesser panda', 'abacus', 'academic gown', 'altar', 'apron', 'backpack', 'bannister', 'barbershop', 'barn', 'barrel', 'basketball', 'bathtub', 'beach wagon', 'beacon', 'beaker', 'beer bottle', 'bikini', 'binoculars', 'birdhouse', 'bow tie', 'brass', 'broom', 'bucket', 'bullet train', 'butcher shop', 'candle', 'cannon', 'cardigan', 'cash machine', 'CD player', 'chain', 'chest', 'Christmas stocking', 'cliff dwelling', 'computer keyboard', 'confectionery', 'convertible', 'crane', 'dam', 'desk', 'dining table', 'drumstick', 'dumbbell', 'flagpole', 'fountain', 'freight car', 'frying pan', 'fur coat', 'gasmask', 'go-kart', 'gondola', 'hourglass', 'iPod', 'jinrikisha', 'kimono', 'lampshade', 'lawn mower', 'lifeboat', 'limousine', 'magnetic compass', 'maypole', 'military uniform', 'miniskirt', 'moving van', 'nail', 'neck brace', 'obelisk', 'oboe', 'organ', 'parking meter', 'pay-phone', 'picket fence', 'pill bottle', 'plunger', 'pole', 'police van', 'poncho', 'pop bottle', "potter's wheel", 'projectile', 'punching bag', 'reel', 'refrigerator', 'remote control', 'rocking chair', 'rugby ball', 'sandal', 'school bus', 'scoreboard', 'sewing machine', 'snorkel', 'sock', 'sombrero', 'space heater', 'spider web', 'sports car', 'steel arch bridge', 'stopwatch', 'sunglasses', 'suspension bridge', 'swimming trunks', 'syringe', 'teapot', 'teddy', 'thatch', 'torch', 'tractor', 'triumphal arch', 'trolleybus', 'turnstile', 'umbrella', 'vestment', 'viaduct', 'volleyball', 'water jug', 'water tower', 'wok', 'wooden spoon', 'comic book', 'plate', 'guacamole', 'ice cream', 'ice lolly', 'pretzel', 'mashed potato', 'cauliflower', 'bell pepper', 'mushroom', 'orange', 'lemon', 'banana', 'pomegranate', 'meat loaf', 'pizza', 'potpie', 'espresso', 'alp', 'cliff', 'coral reef', 'lakeside', 'seashore', 'acorn']
+
+
+fmow_classes = [
+            "aerial view of an airport",
+            "aerial view of an airport hangar",
+            "aerial view of an airport terminal",
+            "aerial view of an amusement park",
+            "aerial view of aquaculture facilities",
+            "aerial view of an archaeological site",
+            "aerial view of a barn",
+            "aerial view of a border checkpoint",
+            "aerial view of a burial site",
+            "aerial view of a car dealership",
+            "aerial view of a construction site",
+            "aerial view of a crop field",
+            "aerial view of a dam",
+            "aerial view of debris or rubble",
+            "aerial view of an educational institution",
+            "aerial view of an electric substation",
+            "aerial view of a factory or power plant",
+            "aerial view of a fire station",
+            "aerial view of a flooded road",
+            "aerial view of a fountain",
+            "aerial view of a gas station",
+            "aerial view of a golf course",
+            "aerial view of a ground transportation station",
+            "aerial view of a helipad",
+            "aerial view of a hospital",
+            "aerial view of an impoverished settlement",
+            "aerial view of an interchange",
+            "aerial view of a lake or pond",
+            "aerial view of a lighthouse",
+            "aerial view of a military facility",
+            "aerial view of a multi-unit residential area",
+            "aerial view of a nuclear power plant",
+            "aerial view of an office building",
+            "aerial view of an oil or gas facility",
+            "aerial view of a park",
+            "aerial view of a parking lot or garage",
+            "aerial view of a place of worship",
+            "aerial view of a police station",
+            "aerial view of a port",
+            "aerial view of a prison",
+            "aerial view of a race track",
+            "aerial view of a railway bridge",
+            "aerial view of a recreational facility",
+            "aerial view of a road bridge",
+            "aerial view of a runway",
+            "aerial view of a shipyard",
+            "aerial view of a shopping mall",
+            "aerial view of a single-unit residential area",
+            "aerial view of a smokestack",
+            "aerial view of a solar farm",
+            "aerial view of a space facility",
+            "aerial view of a stadium",
+            "aerial view of a storage tank",
+            "aerial view of a surface mine",
+            "aerial view of a swimming pool",
+            "aerial view of a toll booth",
+            "aerial view of a tower",
+            "aerial view of a tunnel opening",
+            "aerial view of a waste disposal site",
+            "aerial view of a water treatment facility",
+            "aerial view of a wind farm",
+            "aerial view of a zoo"
+        ]
+
+rmnist_classes = ['number:"0"', 'number:"1"', 'number:"2"', 'number:"3"', 'number:"4"', 'number:"5"', 'number:"6"', 'number:"7"', 'number:"8"', 'number:"9"']
+
+yearbook_classes = ['male student', 'female student']
+
+low_light_cifar10_classes = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
